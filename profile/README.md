@@ -1,3 +1,3 @@
 # ALE Engine Crew
 
-We will be making a more detailed page soon...
+This is the Organization Behind ALE Engine, a Friday Night Funkin' Rewrite Dedicated to Using Scripts and JSON Instead of Source Code
